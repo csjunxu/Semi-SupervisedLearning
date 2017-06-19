@@ -1,0 +1,7 @@
+Xiaojin Zhu, Zoubin Ghahramani, and John Lafferty. Semi-supervised learning using Gaussian fields and harmonic functions. 
+
+In The 20th International Conference on Machine Learning (ICML), 2003. ICML 10-Year Classic Paper Prize. 
+A graph-based semi-supervised learning algorithm that creates a graph over labeled and unlabeled examples. 
+More similar examples are connected by edges with higher weights. 
+The intuition is for the labels to propagate on the graph to unlabeled data. 
+The solution can be found with simple matrix operations, and has strong connections to spectral graph theory. 
